@@ -3,9 +3,11 @@ This project aims to read and visualise DICOM, mha or nrrd images from a directo
 
 # Requirements : 
 
--Python 3.5.2
--SimpleITK
--matplotlib.pyplot
+-Python 3.5.2\n
+
+-SimpleITK\n
+
+-matplotlib.pyplot\n
 
 # imports :
 import os
