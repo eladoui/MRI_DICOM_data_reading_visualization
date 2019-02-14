@@ -38,25 +38,25 @@ The data shoulde be stuctred in drectory like this :
 
 Main_Data_Folder/
 
---> Patitent1
+## --> Patitent1
 
   -->MRI1.dcm (or .mha, .nrrd ...)
 
   -->MRI2.dcm ((or .mha, .nrrd ...)
 
---> patiant2
+## --> patiant2
 
   -->MRI1.dcm (or .mha, .nrrd ...)
 
   -->MRI2.dcm ((or .mha, .nrrd ...)
 
-.
+## .
 
-.
+## .
 
-.
+## .
 
---> patiantN
+## --> patiantN
 
   -->MRI1.dcm (or .mha, .nrrd ...)
 
