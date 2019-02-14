@@ -62,4 +62,26 @@ Main_Data_Folder/
 
   -->MRI2.dcm ((or .mha, .nrrd ...)
 
-So, I think that i think that you got what I mean, for every patient, the Dicom files should be named similarly  
+So, I think that i think that you got what I mean, for every patient, the Dicom files should be named similarly
+
+Please feel free to contact me for any question 
+
+______________________
+
+Mohammed EL ADOUI
+
+Teaching and research assistant / Scientific Executive
+
+Faculty of engineering (Polytech-Mons)
+
+Computer science Unit 
+
+University Of Mons (UMONS)
+
+9, Rue houdain, Mons, Belgium
+
+Office  : +32(0)65374027
+
+Mohammed.ELADOUI@umons.ac.be
+
+Mohammed.ELADOUI@case.edu
